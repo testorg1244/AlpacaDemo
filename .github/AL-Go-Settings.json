@@ -1,7 +1,7 @@
 {
   "type": "PTE",
   "templateUrl": "https://github.com/cosmoconsult/Alpaca-PTE@main",
-  "templateSha": "50832d4ad5973d08fa0bccd8014d912f4492df55",
+  "templateSha": "7d30c355a61e9c98a8cdfda91578c5a2b4ff43ac",
   "useCompilerFolder": true,
   "doNotRemovePackagesFolderIfExists": true,
   "runs-on": "ubuntu-latest",
