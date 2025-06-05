@@ -5,7 +5,11 @@
             "artifacts": [
                 {
                     "type": "url",
-                    "url": "https://cosmo-alpaca-enterprise.westeurope.cloudapp.azure.com/filebrowser/api/public/dl/rN8LNqV2"
+                    "url": "C:\\azurefileshare\\markus_myproj_1.3.0.0.app"
+                },
+                {
+                    "type": "url",
+                    "url": "https://cosmo-alpaca-enterprise.westeurope.cloudapp.azure.com/filebrowser/api/public/dl/acckeTTF"
                 },
                 {
                     "type": "nuget",
