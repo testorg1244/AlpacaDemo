@@ -2,7 +2,20 @@
     "containerConfigurations": [
         {
             "name": "default",
-            "artifacts": []
+            "artifacts": [
+                {
+                    "type": "url",
+                    "url": "C:\\azurefileshare\\markus_myproj_1.3.0.0.app"
+                },
+                {
+                    "type": "url",
+                    "url": "https://cosmo-alpaca-enterprise.westeurope.cloudapp.azure.com/filebrowser/api/public/dl/rN8LNqV2"
+                },
+                {
+                    "type": "nuget",
+                    "name": "CosmoConsult.COSMORental.b945e3cd-da15-4575-990e-37ff46875f27"
+                }
+            ]
         },
         {
             "name": "current",
