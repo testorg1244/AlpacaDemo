@@ -11,9 +11,14 @@
   "artifact": "////latest",
   "cacheImageName": "",
   "environments": [
-    "Production"
+    "Production",
+    "QA"
   ],
   "DeployToProduction": {
+    "Projects": "*",
+    "ContinuousDeployment": true
+  },
+  "DeployToQA": {
     "Projects": "*",
     "ContinuousDeployment": true
   }
