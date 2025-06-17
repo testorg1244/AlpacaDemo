@@ -12,13 +12,18 @@
   "cacheImageName": "",
   "environments": [
     "Production",
-    "QA"
+    "QA",
+    "TEST"
   ],
   "DeployToProduction": {
     "Projects": "*",
     "ContinuousDeployment": true
   },
   "DeployToQA": {
+    "Projects": "*",
+    "ContinuousDeployment": true
+  },
+  "DeployToTEST": {
     "Projects": "*",
     "ContinuousDeployment": true
   }
